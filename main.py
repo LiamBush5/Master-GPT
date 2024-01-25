@@ -4,11 +4,11 @@ import streamlit as st
 st.title('Directory Page')
 
 # Subheading and link for Val GPT
-st.subheader('Val GPT')
+st.subheader('Valiant GPT Chatbot')
 st.markdown('https://valiant-gpt-v2-khsd23hqrudqd67xagqtng.streamlit.app/')
 
 # Subheading and link for Policy GPT
-st.subheader('Policy GPT')
+st.subheader('RVL2: GSA Polibot')
 st.markdown('https://valiant-policy-gpt-ccwnpjxph5qvxflhvjzc37.streamlit.app/')
 
 # Subheading and link for Summarize GPT
