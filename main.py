@@ -9,7 +9,7 @@ st.markdown('https://valiant-gpt-v2-khsd23hqrudqd67xagqtng.streamlit.app/')
 
 # Subheading and link for Policy GPT
 st.subheader('Policy GPT')
-st.markdown('https://valiant-policy-gpt-v2-khsd23hqrudqd67xagqtng.streamlit.app/')
+st.markdown('https://valiant-policy-gpt-ccwnpjxph5qvxflhvjzc37.streamlit.app/')
 
 # Subheading and link for Summarize GPT
 st.subheader('Summarize GPT')
