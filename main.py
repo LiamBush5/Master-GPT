@@ -16,5 +16,5 @@ st.subheader('Summarize GPT')
 st.markdown('https://rcl-summarize-ca7vsukofzajo4w8etgb9b.streamlit.app/')
 
 st.subheader('Upload CSV to RCL')
-st.markdown('https://rcl-summarize-ca7vsukofzajo4w8etgb9b.streamlit.app/')
+st.markdown('https://csv-upload-ncmtuqtjh4totjwwxmkt4w.streamlit.app/')
 
